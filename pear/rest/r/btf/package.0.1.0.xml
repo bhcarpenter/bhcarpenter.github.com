@@ -2,11 +2,10 @@
 <package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0 http://pear.php.net/dtd/tasks-1.0.xsd http://pear.php.net/dtd/package-2.0 http://pear.php.net/dtd/package-2.0.xsd">
   <name>btf</name>
   <channel>bhcarpenter.github.com/pear</channel>
-  <summary>A simple and lightweight PHP framework.</summary>
+  <summary>The B-Team Framework. A simple and lightweight PHP framework.</summary>
   <description>
-    A simple and lightweight PHP framework. Provides components for routing
-    HTTP requests to application code and a brilliantly simple templating
-    engine.
+    Provides components for routing HTTP requests to application code and a 
+    stupidly simple templating engine.
   </description>
   <lead>
     <name>Brandon H. Carpenter</name>
@@ -15,14 +14,14 @@
     <active>yes</active>
   </lead>
   <date>2011-12-31</date>
-  <time>13:06:04</time>
+  <time>13:30:25</time>
   <version>
     <release>0.1.0</release>
     <api>0.1</api>
   </version>
   <stability>
-    <release>stable</release>
-    <api>stable</api>
+    <release>devel</release>
+    <api>devel</api>
   </stability>
   <license>The New BSD License.</license>
   <notes>

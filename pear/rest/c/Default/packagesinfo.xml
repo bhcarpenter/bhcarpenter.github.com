@@ -6,11 +6,10 @@
             <c>bhcarpenter.github.com/pear</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
             <l>The New BSD License.</l>
-            <s>A simple and lightweight PHP framework.</s>
+            <s>The B-Team Framework. A simple and lightweight PHP framework.</s>
             <d>
-    A simple and lightweight PHP framework. Provides components for routing
-    HTTP requests to application code and a brilliantly simple templating
-    engine.
+    Provides components for routing HTTP requests to application code and a 
+    stupidly simple templating engine.
   </d>
             <r xlink:href="/rest/r/btf" />
         </p>
@@ -18,7 +17,7 @@
         <a>
             <r>
                 <v>0.1.0</v>
-                <s>stable</s>
+                <s>devel</s>
             </r>
 
         </a>
