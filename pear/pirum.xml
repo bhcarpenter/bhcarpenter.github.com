@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>bhcarpenter.github.com/pear</name>
+  <summary>Brandon H. Carpenter's PEAR channel</summary>
+  <alias>bhcarpenter</alias>
+  <url>http://bhcarpenter.github.com/pear/</url>
+</server>
