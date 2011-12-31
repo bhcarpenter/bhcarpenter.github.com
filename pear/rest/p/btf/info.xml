@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
+<n>btf</n>
+<c>bhcarpenter.github.com/pear</c>
+<ca xlink:href="/rest/c/Default">Default</ca>
+<l>The New BSD License.</l>
+<s>A simple and lightweight PHP framework.</s>
+<d>
+    A simple and lightweight PHP framework. Provides components for routing
+    HTTP requests to application code and a brilliantly simple templating
+    engine.
+  </d>
+<r xlink:href="/rest/r/btf" />
+</p>

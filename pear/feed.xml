@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://bhcarpenter.github.com/pear</id>
-    <updated>2011-12-30T20:49:37-05:00</updated>
+    <updated>2011-12-31T13:06:04-05:00</updated>
     <title>Brandon H. Carpenter's PEAR channel Latest Releases</title>
     <link href="http://bhcarpenter.github.com/pear/feed.xml" rel="self" />
     <author>
         <name>http://bhcarpenter.github.com/pear</name>
     </author>
 
-
+    <entry>
+        <title>btf 0.1.0 (stable)</title>
+        <link href="http://bhcarpenter.github.com/pear/get/btf-0.1.0.tgz" />
+        <id>http://bhcarpenter.github.com/pear/get/btf-0.1.0.tgz</id>
+        <author>
+            <name>bhcarpenter</name>
+        </author>
+        <updated>2011-12-31T13:06:04-05:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>
 </feed>
