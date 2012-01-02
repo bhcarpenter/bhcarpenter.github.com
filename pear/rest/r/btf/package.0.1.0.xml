@@ -13,8 +13,8 @@
     <email>bhcarpenter@gmail.com</email>
     <active>yes</active>
   </lead>
-  <date>2011-12-31</date>
-  <time>13:30:25</time>
+  <date>2012-01-01</date>
+  <time>22:40:28</time>
   <version>
     <release>0.1.0</release>
     <api>0.1</api>
@@ -37,19 +37,27 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="5ecc8c8852dbc18c3fc38f758b12a08d" name="/bhcarpenter/btf/Routing/Request/HTTPRequest.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="5e1a2df780de368dcc11cc60a7c0d8f6" name="/bhcarpenter/btf/Routing/Request/CookieSetter.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="2537c647b4be68eb7d163101a50123ef" name="/bhcarpenter/btf/Routing/Request/IRequest.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="e1225f0d11f8eaa7f5a56d34ffa971a2" name="/bhcarpenter/btf/Routing/Request/HTTPRequest.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="06cd84d062422ecf7e5fdd824650bd2b" name="/bhcarpenter/btf/Routing/Response/AbstractResponse.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="a6259ba80e4066e55500c04b63e18dab" name="/bhcarpenter/btf/Routing/Request/IRequest.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="4cf592a31791f3caec90d4f2973f316b" name="/bhcarpenter/btf/Routing/Response/FileDownloadResponse.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="33861a3a667b420150d0ec7c4e1948c0" name="/bhcarpenter/btf/Routing/Response/AbstractResponse.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="2c4087177835ac596579581a74ee20ef" name="/bhcarpenter/btf/Routing/Response/FileDownloadResponse.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="4c36036be1fc8ad4d713ea98a34ce649" name="/bhcarpenter/btf/Routing/Response/HeaderSetter.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -69,11 +77,11 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="909b0b563728b03cfb6f74e95509e641" name="/bhcarpenter/btf/Routing/Route.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="8779782aae81fc6c827f3377d2fc7016" name="/bhcarpenter/btf/Routing/Route.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="aab1bc87a61311b532037bafb6675ec9" name="/bhcarpenter/btf/Routing/Router.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="b39ef1456d59cc67f9365c4dd5363198" name="/bhcarpenter/btf/Routing/Router.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
@@ -81,51 +89,91 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="c0b20b9ccaa9ac29127def94a66ed50f" name="/bhcarpenter/btf/Template/TagLibrary/URLTagLibrary.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="796ce470c79db2cbc016f58c93b19667" name="/bhcarpenter/btf/Template/TagLibrary/URLTagLibrary.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="e1134b2d02b0d009dbdc59a8109b79ac" name="/bhcarpenter/btf/Template/Template.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="1edc69895c9a837382c08c00a8dbed8f" name="/bhcarpenter/btf/Template/Template.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="b838ef2b07bd4837bd04a133e25fbf12" name="/bhcarpenter/btf/Routing/Request/HTTPRequestTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="c21da0622185001482f966d7f5f268c8" name="/bhcarpenter/btf/Routing/MockActionHandler.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="df0061de164c0390ecc22ac018c1339e" name="/bhcarpenter/btf/Routing/Response/AbstractResponseTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="fde770fe3369cf3d47c6bdafa7564db0" name="/bhcarpenter/btf/Routing/Request/HTTPRequestTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="cfe18c1e590ecd8c4c216e7117f2bc31" name="/bhcarpenter/btf/Routing/Response/FileDownloadResponseTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="6bf75a6112197ccf67d3ba1bfc34b189" name="/bhcarpenter/btf/Routing/Response/_files/download.txt" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="4f023290d96b435bc46d082badf5858c" name="/bhcarpenter/btf/Routing/Response/RedirectResponseTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="c234b35e5075e3d8273e513db56f3ceb" name="/bhcarpenter/btf/Routing/Response/_files/page.phtml" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="7e739ceaf9bbcc64f01cece36dcaa9bf" name="/bhcarpenter/btf/Routing/Response/ResponseTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="4345556a4319e2d60042f1a5ca2d858b" name="/bhcarpenter/btf/Routing/Response/_files/title-parameter.phtml" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="8be915893b22851876cdba166ef2e75e" name="/bhcarpenter/btf/Routing/Response/TemplateResponseTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="b6b2dee014f44cd9698c13533f45a334" name="/bhcarpenter/btf/Routing/Response/AbstractResponseTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="1dbb864ba3501205489bab0f6d4e3e96" name="/bhcarpenter/btf/Routing/RouterTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="2d6ebb35b499b001ac387f15ab3758a2" name="/bhcarpenter/btf/Routing/Response/FileDownloadResponseTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="839e40b5097da897c17ab27c9fe94a9f" name="/bhcarpenter/btf/Routing/RouteTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="656d4a98f4c3ac38d72a6278df474f62" name="/bhcarpenter/btf/Routing/Response/RedirectResponseTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="d6b86ee3ce854f1d04cc281247a72143" name="/bhcarpenter/btf/Template/TagLibrary/URLTagLibraryTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="e11fb4802b37536b8e65828bd5ac8ea5" name="/bhcarpenter/btf/Routing/Response/ResponseTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="649984c1b5a39326b316b2f969d6ec3f" name="/bhcarpenter/btf/Template/TemplateTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="02092d23903c559d6a23578fb61fd8bd" name="/bhcarpenter/btf/Routing/Response/TemplateResponseTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="32d32434f10f4e5bc7837cf1bd44ebff" name="/bhcarpenter/btf/Routing/RouterTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="a6d7167fbf689b7ee05bb2e553bc2130" name="/bhcarpenter/btf/Routing/RouteTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="ace86d501d4b099a8ec440757590d3bd" name="/bhcarpenter/btf/Template/files/block-heirarchy.phtml" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="a2dca1426e3d3db782365d1075dfbc86" name="/bhcarpenter/btf/Template/files/block-inheritance.phtml" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="925ddf0a218be161cf73045e6324fa63" name="/bhcarpenter/btf/Template/files/load-testlib.phtml" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="cf4c757ab2db0d520244cde42ad38a24" name="/bhcarpenter/btf/Template/files/parent-block-content.phtml" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="d007eaa0e1d534003b886dfcda55430f" name="/bhcarpenter/btf/Template/files/run-test-tag.phtml" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="74d9a83219cabaab06a69fd318873f33" name="/bhcarpenter/btf/Template/files/true.phtml" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="1683c894c507922d2ef954dc86de350e" name="/bhcarpenter/btf/Template/TagLibrary/URLTagLibraryTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="d1264bad2029885f1917050c7298beb5" name="/bhcarpenter/btf/Template/TemplateTest.php" role="test">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
