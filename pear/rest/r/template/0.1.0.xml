@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
-    <p xlink:href="/rest/p/btf">btf</p>
+    <p xlink:href="/rest/p/template">Template</p>
     <c>bhcarpenter.github.com/pear</c>
     <v>0.1.0</v>
     <st>devel</st>
     <l>The New BSD License.</l>
     <m>bhcarpenter</m>
-    <s>The B-Team Framework. A simple and lightweight PHP framework.</s>
+    <s>A stupidly simple templating engine for PHP.</s>
     <d>
-    Provides components for routing HTTP requests to application code and a 
-    stupidly simple templating engine.
   </d>
-    <da>2012-01-01 22:40:28</da>
+    <da>2012-01-07 18:23:36</da>
     <n>
     No notes.
   </n>
-    <f>24954</f>
-    <g>http://bhcarpenter.github.com/pear/get/btf-0.1.0</g>
+    <f>10492</f>
+    <g>http://bhcarpenter.github.com/pear/get/Template-0.1.0</g>
     <x xlink:href="package.0.1.0.xml"/>
 </r>

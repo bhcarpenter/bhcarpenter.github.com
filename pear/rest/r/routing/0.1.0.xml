@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/routing">routing</p>
+    <c>bhcarpenter.github.com/pear</c>
+    <v>0.1.0</v>
+    <st>devel</st>
+    <l>The New BSD License.</l>
+    <m>bhcarpenter</m>
+    <s>Simple and lightweight HTTP Request to Action Handler routing for PHP.</s>
+    <d>
+    A PHP component that provides a mechanism for defining re-usable &quot;action 
+    handlers&quot; and for mapping HTTP requests to those handlers. Consists of
+    HTTP request and HTTP response abstractions, the action handler interface,
+    and classes for defining routes.
+  </d>
+    <da>2012-01-07 17:46:32</da>
+    <n>
+    No notes.
+  </n>
+    <f>17555</f>
+    <g>http://bhcarpenter.github.com/pear/get/routing-0.1.0</g>
+    <x xlink:href="package.0.1.0.xml"/>
+</r>
