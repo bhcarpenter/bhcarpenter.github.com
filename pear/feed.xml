@@ -1,12 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://bhcarpenter.github.com/pear</id>
-    <updated>2012-01-08T15:37:23-05:00</updated>
+    <updated>2012-01-08T15:37:58-05:00</updated>
     <title>Brandon H. Carpenter's PEAR channel Latest Releases</title>
     <link href="http://bhcarpenter.github.com/pear/feed.xml" rel="self" />
     <author>
         <name>http://bhcarpenter.github.com/pear</name>
     </author>
 
-
+    <entry>
+        <title>Routing 0.1.0 (devel)</title>
+        <link href="http://bhcarpenter.github.com/pear/get/Routing-0.1.0.tgz" />
+        <id>http://bhcarpenter.github.com/pear/get/Routing-0.1.0.tgz</id>
+        <author>
+            <name>bhcarpenter</name>
+        </author>
+        <updated>2012-01-08T15:37:57-05:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
+        <title>Template 0.1.0 (devel)</title>
+        <link href="http://bhcarpenter.github.com/pear/get/Template-0.1.0.tgz" />
+        <id>http://bhcarpenter.github.com/pear/get/Template-0.1.0.tgz</id>
+        <author>
+            <name>bhcarpenter</name>
+        </author>
+        <updated>2012-01-08T15:37:47-05:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>
 </feed>
