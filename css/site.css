@@ -18,6 +18,10 @@ body {
   max-width: 100%;
 }
 
+.project .description {
+  height: 120px;
+}
+
 /*
  * Hide only visually, but have it available for screenreaders: h5bp.com/v
  */
